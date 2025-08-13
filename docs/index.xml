@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Baklavacı Augsburg</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Baklavacı Augsburg</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cevizli Baklava</title>
+      <link>http://example.org/produkte/cevizli-baklava/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/produkte/cevizli-baklava/</guid>
+      <description>&lt;p&gt;Knusprige Schichten, reichlich Walnüsse.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fıstık Baklava</title>
+      <link>http://example.org/produkte/fistik-baklava/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/produkte/fistik-baklava/</guid>
+      <description>&lt;p&gt;Der Klassiker mit extra Pistazien – täglich frisch.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Havuç Dilimi</title>
+      <link>http://example.org/produkte/havuc-dilimi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/produkte/havuc-dilimi/</guid>
+      <description>&lt;p&gt;Mehr Pistazien, mehr Genuss – ideal zum Teilen.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kadayıf (Pistazie)</title>
+      <link>http://example.org/produkte/kadayif-pistazie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/produkte/kadayif-pistazie/</guid>
+      <description>&lt;p&gt;Außen knusprig, innen saftig – ein Klassiker.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lokma</title>
+      <link>http://example.org/produkte/lokma/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/produkte/lokma/</guid>
+      <description>&lt;p&gt;Mit Sirup verfeinert – perfekt zum Kaffee oder Tee.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lokum (Pistazie)</title>
+      <link>http://example.org/produkte/lokum-pistazie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/produkte/lokum-pistazie/</guid>
+      <description>&lt;p&gt;Süße Kleinigkeit zum Mitnehmen oder Verschenken.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pistazien-Baklava</title>
+      <link>http://example.org/produkte/pistazien-baklava/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/produkte/pistazien-baklava/</guid>
+      <description>&lt;p&gt;Hausgemachte Pistazien‑Baklava mit Gaziantep-Pistazien. Täglich frisch gebacken.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://example.org/images/products/pistazien.jpg&#34; alt=&#34;Pistazien-Baklava&#34;&gt;&lt;/p&gt;&#xA;&lt;div style=&#34;margin:1.5rem 0 0; text-align:center;&#34;&gt;&#xA;  &lt;a href=&#34;https://wa.me/498214540865?text=Hallo%2C%20ich%20m%C3%B6chte%20Pistazien%20Baklava%20vorbestellen.&#34;&#xA;     style=&#34;display:inline-block; padding:0.9rem 1.3rem; border-radius:12px; background:#111; color:#fff; text-decoration:none;&#34;&gt;&#xA;    Jetzt vorbestellen&#xA;  &lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;div style=&#34;margin:1.5rem 0 0; text-align:center;&#34;&gt;&#xA;  &lt;a href=&#34;https://wa.me/498214540865?text=Hallo%2C%20ich%20m%C3%B6chte%20Pistazien%20Baklava%20vorbestellen.&#34;&#xA;     style=&#34;display:inline-block; padding:0.9rem 1.3rem; border-radius:12px; background:#111; color:#fff; text-decoration:none;&#34;&gt;&#xA;    Jetzt vorbestellen&#xA;  &lt;/a&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Salep</title>
+      <link>http://example.org/produkte/salep/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/produkte/salep/</guid>
+      <description>&lt;p&gt;Cremig, wärmend und duftend – ein Muss im Winter.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Saray Burma</title>
+      <link>http://example.org/produkte/saray-burma/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/produkte/saray-burma/</guid>
+      <description>&lt;p&gt;Traditionelles Rezept – hauchdünner Teig, goldbraun gebacken.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Schokoherzen</title>
+      <link>http://example.org/produkte/schokoherzen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/produkte/schokoherzen/</guid>
+      <description>&lt;p&gt;Für besondere Anlässe – handgemacht.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Süße Mischung</title>
+      <link>http://example.org/produkte/suesse-mischung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/produkte/suesse-mischung/</guid>
+      <description>&lt;p&gt;Vielfalt in einer Box – für jeden Geschmack etwas dabei.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Türkischer Tee</title>
+      <link>http://example.org/produkte/tuerkischer-tee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/produkte/tuerkischer-tee/</guid>
+      <description>&lt;p&gt;Passt perfekt zu Baklava &amp;amp; Gebäck.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vegane Baklava</title>
+      <link>http://example.org/produkte/vegan-baklava/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/produkte/vegan-baklava/</guid>
+      <description>&lt;p&gt;Vegan, aber voller Aroma: zarter Teig, Nüsse &amp;amp; Sirup – ganz ohne tierische Produkte.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://example.org/images/products/vegan.jpg&#34; alt=&#34;Vegane Baklava&#34;&gt;&lt;/p&gt;&#xA;&lt;div style=&#34;margin:1.5rem 0 0; text-align:center;&#34;&gt;&#xA;  &lt;a href=&#34;https://wa.me/498214540865?text=Hallo%2C%20ich%20m%C3%B6chte%20Vegane%20Baklava%20vorbestellen.&#34;&#xA;     style=&#34;display:inline-block; padding:0.9rem 1.3rem; border-radius:12px; background:#111; color:#fff; text-decoration:none;&#34;&gt;&#xA;    Jetzt vorbestellen&#xA;  &lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;div style=&#34;margin:1.5rem 0 0; text-align:center;&#34;&gt;&#xA;  &lt;a href=&#34;https://wa.me/498214540865?text=Hallo%2C%20ich%20m%C3%B6chte%20Vegane%20Baklava%20vorbestellen.&#34;&#xA;     style=&#34;display:inline-block; padding:0.9rem 1.3rem; border-radius:12px; background:#111; color:#fff; text-decoration:none;&#34;&gt;&#xA;    Jetzt vorbestellen&#xA;  &lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;div style=&#34;margin:1.5rem 0 0; text-align:center;&#34;&gt;&#xA;  &lt;a href=&#34;https://wa.me/498214540865?text=Hallo%2C%20ich%20m%C3%B6chte%20Vegane%20Baklava%20vorbestellen.&#34;&#xA;     style=&#34;display:inline-block; padding:0.9rem 1.3rem; border-radius:12px; background:#111; color:#fff; text-decoration:none;&#34;&gt;&#xA;    Jetzt vorbestellen&#xA;  &lt;/a&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Walnuss-Baklava</title>
+      <link>http://example.org/produkte/walnuss-baklava/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://example.org/produkte/walnuss-baklava/</guid>
+      <description>&lt;p&gt;Knusprige Walnuss‑Baklava nach Familienrezept. Ausgewogene Süße, viel Geschmack.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://example.org/images/products/walnuss.jpg&#34; alt=&#34;Walnuss-Baklava&#34;&gt;&lt;/p&gt;&#xA;&lt;div style=&#34;margin:1.5rem 0 0; text-align:center;&#34;&gt;&#xA;  &lt;a href=&#34;https://wa.me/498214540865?text=Hallo%2C%20ich%20m%C3%B6chte%20Walnuss%20Baklava%20vorbestellen.&#34;&#xA;     style=&#34;display:inline-block; padding:0.9rem 1.3rem; border-radius:12px; background:#111; color:#fff; text-decoration:none;&#34;&gt;&#xA;    Jetzt vorbestellen&#xA;  &lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;div style=&#34;margin:1.5rem 0 0; text-align:center;&#34;&gt;&#xA;  &lt;a href=&#34;https://wa.me/498214540865?text=Hallo%2C%20ich%20m%C3%B6chte%20Walnuss%20Baklava%20vorbestellen.&#34;&#xA;     style=&#34;display:inline-block; padding:0.9rem 1.3rem; border-radius:12px; background:#111; color:#fff; text-decoration:none;&#34;&gt;&#xA;    Jetzt vorbestellen&#xA;  &lt;/a&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>
