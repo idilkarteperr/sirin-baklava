@@ -1,0 +1,23 @@
+{{ define "main" }}
+<link rel="stylesheet" href="/css/custom.css">
+<section class="product-section">
+  <h1 class="product-heading">Unsere Produkte</h1>
+  <div class="product-grid">
+    {{ range .Pages }}
+    <div class="product-card">
+      {{ with .Params.images }}
+      <img src="{{ index . 0 }}" alt="{{ $.Title }}">
+      {{ end }}
+      <div class="product-content">
+        <h3 class="product-title">{{ .Title }}</h3>
+        <p class="product-description">{{ .Params.description }}</p>
+        {{ with .Params.price }}
+        <p class="product-price">{{ . }}</p>
+        {{ end }}
+        <a href="https://wa.me/498214540865?text=Hallo%2C%20ich%20m%C3%B6chte%20{{ urlquery .Title }}%20vorbestellen." class="btn-primary">Jetzt vorbestellen</a>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

@@ -1,0 +1,32 @@
+baseURL = 'http://example.org/'
+languageCode = 'de-de'
+title = 'Baklavacı Augsburg'
+theme = 'ananke'
+
+[menu]
+  [[menu.main]]
+    name = "Startseite"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Produkte"
+    url = "/produkte/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Über uns"
+    url = "/ueber-uns/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Kontakt"
+    url = "/kontakt/"
+    weight = 4
+
+[params]
+  customCSS = ["css/custom.css"]
+  custom_css_files = ["css/custom.css"]
+[markup.goldmark.renderer]
+  unsafe = true
+
