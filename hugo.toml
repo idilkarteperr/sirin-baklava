@@ -1,6 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://www.sirinbaklava-augsburg.de'
 languageCode = 'de-de'
-title = 'Baklavacı Augsburg'
+title = 'Sirin Baklava - Mahmut Usta'
 theme = 'ananke'
 
 [menu]
@@ -23,6 +23,16 @@ theme = 'ananke'
     name = "Kontakt"
     url = "/kontakt/"
     weight = 4
+
+  [[menu.footer]]
+    name = "Impressum"
+    url = "/impressum/"
+    weight = 1
+
+  [[menu.footer]]
+    name = "Datenschutzerklärung"
+    url = "/datenschutzerklarung/"
+    weight = 2
 
 [params]
   customCSS = ["css/custom.css"]

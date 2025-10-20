@@ -2,7 +2,7 @@
 title = "Schokoherzen"
 description = "Feines Gebäck mit Schokolade – zartschmelzend."
 images = ["/images/products/schokoherzen.jpg"]
-price = "ab 1,50 € / Stück"
+#price = "ab 1,50 € / Stück"
 draft = false
 +++
 

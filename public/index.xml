@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Baklavacı Augsburg</title>
+    <title>Sirin Baklava - Mahmut Usta</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Baklavacı Augsburg</description>
+    <description>Recent content on Sirin Baklava - Mahmut Usta</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Datenschutzerklärung</title>
+      <link>http://localhost:1313/datenschutzerklarung/</link>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/datenschutzerklarung/</guid>
+      <description>&lt;p&gt;Wir freuen uns über Ihr Interesse an unserer Website. Der Schutz Ihrer personenbezogenen Daten ist uns ein wichtiges Anliegen.&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-verantwortliche-stelle&#34;&gt;1. Verantwortliche Stelle&lt;/h3&gt;&#xA;&lt;p&gt;Şirin Baklava Augsburg&lt;br&gt;&#xA;Inhaber: &lt;strong&gt;Mahmut Aksoy&lt;/strong&gt;&lt;br&gt;&#xA;Baklava Straße 12&lt;br&gt;&#xA;86150 Augsburg&lt;br&gt;&#xA;&lt;a href=&#34;mailto:info@sirinbaklava.de&#34;&gt;info@sirinbaklava.de&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;2-erhebung-und-speicherung-personenbezogener-daten&#34;&gt;2. Erhebung und Speicherung personenbezogener Daten&lt;/h3&gt;&#xA;&lt;p&gt;Beim Besuch unserer Website werden durch den Browser automatisch Informationen an den Server unserer Website gesendet (z. B. IP-Adresse, Browsertyp, Betriebssystem, Referrer-URL, Uhrzeit). Diese Daten dienen der technischen Stabilität und Verbesserung.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Impressum</title>
+      <link>http://localhost:1313/impressum/</link>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/impressum/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Angaben gemäß § 5 DDG&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Şirin Baklava Augsburg&lt;br&gt;&#xA;Inhaber: &lt;strong&gt;Mahmut Aksoy&lt;/strong&gt;&lt;br&gt;&#xA;Jakoberstraße 13,&#xA;86152 Augsburg&#xA;Deutschland&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Kontakt:&lt;/strong&gt;&lt;br&gt;&#xA;Telefon: +46 821 4540865&lt;br&gt;&#xA;E-Mail: &lt;a href=&#34;mailto:info@sirinbaklava-augsburg.de&#34;&gt;info@sirinbaklava-augsburg.de&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Verantwortlich für den Inhalt nach §18 Abs. 2 MStV:&lt;/strong&gt;&lt;br&gt;&#xA;Mahmut Aksoy&lt;br&gt;&#xA;Jakoberstraße 13,&#xA;86152 Augsburg&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Cevizli Baklava</title>
       <link>http://localhost:1313/produkte/cevizli-baklava/</link>
@@ -55,7 +69,7 @@
       <link>http://localhost:1313/produkte/pistazien-baklava/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/produkte/pistazien-baklava/</guid>
-      <description>&lt;p&gt;Hausgemachte Pistazien‑Baklava mit Gaziantep-Pistazien. Täglich frisch gebacken.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/products/pistazien.jpg&#34; alt=&#34;Pistazien-Baklava&#34;&gt;&lt;/p&gt;&#xA;&lt;div style=&#34;margin:1.5rem 0 0; text-align:center;&#34;&gt;&#xA;  &lt;a href=&#34;https://wa.me/498214540865?text=Hallo%2C%20ich%20m%C3%B6chte%20Pistazien%20Baklava%20vorbestellen.&#34;&#xA;     style=&#34;display:inline-block; padding:0.9rem 1.3rem; border-radius:12px; background:#111; color:#fff; text-decoration:none;&#34;&gt;&#xA;    Jetzt vorbestellen&#xA;  &lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;div style=&#34;margin:1.5rem 0 0; text-align:center;&#34;&gt;&#xA;  &lt;a href=&#34;https://wa.me/498214540865?text=Hallo%2C%20ich%20m%C3%B6chte%20Pistazien%20Baklava%20vorbestellen.&#34;&#xA;     style=&#34;display:inline-block; padding:0.9rem 1.3rem; border-radius:12px; background:#111; color:#fff; text-decoration:none;&#34;&gt;&#xA;    Jetzt vorbestellen&#xA;  &lt;/a&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;p&gt;Hausgemachte Pistazien‑Baklava mit Gaziantep-Pistazien. Täglich frisch gebacken.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/products/pistazien.jpg&#34; alt=&#34;Pistazien-Baklava&#34;&gt;&lt;/p&gt;&#xA;&lt;div style=&#34;margin:1.5rem 0 0; text-align:center;&#34;&gt;&#xA;  &lt;a href=&#34;https://wa.me/498214540865?text=Hallo%2C%20ich%20m%C3%B6chte%20Pistazien%20Baklava%20vorbestellen.&#34;&#xA;     style=&#34;display:inline-block; padding:0.9rem 1.3rem; border-radius:12px; background:#111; color:#fff; text-decoration:none;&#34;&gt;&#xA;    Jetzt vorbestellen&#xA;  &lt;/a&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Salep</title>
@@ -97,14 +111,14 @@
       <link>http://localhost:1313/produkte/vegan-baklava/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/produkte/vegan-baklava/</guid>
-      <description>&lt;p&gt;Vegan, aber voller Aroma: zarter Teig, Nüsse &amp;amp; Sirup – ganz ohne tierische Produkte.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/products/vegan.jpg&#34; alt=&#34;Vegane Baklava&#34;&gt;&lt;/p&gt;&#xA;&lt;div style=&#34;margin:1.5rem 0 0; text-align:center;&#34;&gt;&#xA;  &lt;a href=&#34;https://wa.me/498214540865?text=Hallo%2C%20ich%20m%C3%B6chte%20Vegane%20Baklava%20vorbestellen.&#34;&#xA;     style=&#34;display:inline-block; padding:0.9rem 1.3rem; border-radius:12px; background:#111; color:#fff; text-decoration:none;&#34;&gt;&#xA;    Jetzt vorbestellen&#xA;  &lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;div style=&#34;margin:1.5rem 0 0; text-align:center;&#34;&gt;&#xA;  &lt;a href=&#34;https://wa.me/498214540865?text=Hallo%2C%20ich%20m%C3%B6chte%20Vegane%20Baklava%20vorbestellen.&#34;&#xA;     style=&#34;display:inline-block; padding:0.9rem 1.3rem; border-radius:12px; background:#111; color:#fff; text-decoration:none;&#34;&gt;&#xA;    Jetzt vorbestellen&#xA;  &lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;div style=&#34;margin:1.5rem 0 0; text-align:center;&#34;&gt;&#xA;  &lt;a href=&#34;https://wa.me/498214540865?text=Hallo%2C%20ich%20m%C3%B6chte%20Vegane%20Baklava%20vorbestellen.&#34;&#xA;     style=&#34;display:inline-block; padding:0.9rem 1.3rem; border-radius:12px; background:#111; color:#fff; text-decoration:none;&#34;&gt;&#xA;    Jetzt vorbestellen&#xA;  &lt;/a&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;p&gt;Vegan, aber voller Aroma: zarter Teig, Nüsse &amp;amp; Sirup – ganz ohne tierische Produkte.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/products/vegan.jpg&#34; alt=&#34;Vegane Baklava&#34;&gt;&lt;/p&gt;&#xA;&lt;div style=&#34;margin:1.5rem 0 0; text-align:center;&#34;&gt;&#xA;  &lt;a href=&#34;https://wa.me/498214540865?text=Hallo%2C%20ich%20m%C3%B6chte%20Vegane%20Baklava%20vorbestellen.&#34;&#xA;     style=&#34;display:inline-block; padding:0.9rem 1.3rem; border-radius:12px; background:#111; color:#fff; text-decoration:none;&#34;&gt;&#xA;    Jetzt vorbestellen&#xA;  &lt;/a&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Walnuss-Baklava</title>
       <link>http://localhost:1313/produkte/walnuss-baklava/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/produkte/walnuss-baklava/</guid>
-      <description>&lt;p&gt;Knusprige Walnuss‑Baklava nach Familienrezept. Ausgewogene Süße, viel Geschmack.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/products/walnuss.jpg&#34; alt=&#34;Walnuss-Baklava&#34;&gt;&lt;/p&gt;&#xA;&lt;div style=&#34;margin:1.5rem 0 0; text-align:center;&#34;&gt;&#xA;  &lt;a href=&#34;https://wa.me/498214540865?text=Hallo%2C%20ich%20m%C3%B6chte%20Walnuss%20Baklava%20vorbestellen.&#34;&#xA;     style=&#34;display:inline-block; padding:0.9rem 1.3rem; border-radius:12px; background:#111; color:#fff; text-decoration:none;&#34;&gt;&#xA;    Jetzt vorbestellen&#xA;  &lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;div style=&#34;margin:1.5rem 0 0; text-align:center;&#34;&gt;&#xA;  &lt;a href=&#34;https://wa.me/498214540865?text=Hallo%2C%20ich%20m%C3%B6chte%20Walnuss%20Baklava%20vorbestellen.&#34;&#xA;     style=&#34;display:inline-block; padding:0.9rem 1.3rem; border-radius:12px; background:#111; color:#fff; text-decoration:none;&#34;&gt;&#xA;    Jetzt vorbestellen&#xA;  &lt;/a&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;p&gt;Knusprige Walnuss‑Baklava nach Familienrezept. Ausgewogene Süße, viel Geschmack.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/products/walnuss.jpg&#34; alt=&#34;Walnuss-Baklava&#34;&gt;&lt;/p&gt;&#xA;&lt;div style=&#34;margin:1.5rem 0 0; text-align:center;&#34;&gt;&#xA;  &lt;a href=&#34;https://wa.me/498214540865?text=Hallo%2C%20ich%20m%C3%B6chte%20Walnuss%20Baklava%20vorbestellen.&#34;&#xA;     style=&#34;display:inline-block; padding:0.9rem 1.3rem; border-radius:12px; background:#111; color:#fff; text-decoration:none;&#34;&gt;&#xA;    Jetzt vorbestellen&#xA;  &lt;/a&gt;&#xA;&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>

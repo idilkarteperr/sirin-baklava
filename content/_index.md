@@ -111,12 +111,15 @@ Mit viel Liebe und nach Familienrezepten gebacken – genau so, wie wir es von u
     </div>
     <div style="background:#fff; padding:1.25rem; border-radius:14px; box-shadow:0 6px 18px rgba(0,0,0,.06);">
       <h3 style="margin-top:0;">Kontakt</h3>
-      <p style="margin:.25rem 0;">Telefon: <a href="tel:+498214540865">+498214540865</a></p>
-      <p style="margin:.25rem 0;">Adresse: Augsburg, Deutschland</p>
-      <p style="margin:.25rem 0;"><a href="https://maps.app.goo.gl/yhbgKuzTUVyvQhRK8">Auf Google Maps öffnen</a></p>
+      <p style="margin:.25rem 0;"> Şirin Baklava Augsburg <br>
+Inhaber: Mahmut Aksoy<br>
+Jakoberstraße 13<br>
+86152 Augsburg</p>
+<p style="margin:.25rem 0;">Telefon: <a href="tel:+498214540865">+498214540865</a></p>
     </div>
   </div>
 </section>
+
 
 <!-- SON CTA -->
 <section style="text-align:center; padding:3rem 1rem;">
@@ -130,4 +133,3 @@ Mit viel Liebe und nach Familienrezepten gebacken – genau so, wie wir es von u
 
 
 ---
-
